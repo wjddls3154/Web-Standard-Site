@@ -1,7 +1,7 @@
 # Web-Standard-Site
 프론트엔드 홈페이지 만들기 - 웹 표준 사이트(jsp,html,css,jquery)
 
-https://blog.naver.com/wjddls3154/222700041456
+- 블로그에 정리 : https://blog.naver.com/wjddls3154/222700041456
 
 ![1](https://user-images.githubusercontent.com/37132897/163196115-75a551b7-4996-4430-b253-f5587de44835.JPG)
 
